@@ -1,0 +1,27 @@
+{
+  "title" : "4 Hal yang Terjadi Jika Bernapas Melalui Mulut",
+  "file" : "intro.txt",
+  "image" : ["intro.mp4"],
+  "section" : [
+      { 
+        "name" : "1. Wajah Anda berubah",
+        "file" : "1.txt",
+        "image" : ["1.mp4","12.mp4"]
+      },
+      {
+        "name" : "2. Anda mulai membungkuk",
+        "file" : "2.txt",
+        "image" : ["2.mp4","22.mp4"]
+      },
+      {
+        "name" : "3. Gigimu menderita",
+        "file" : "3.txt",
+        "image" : ["3.mp4"]
+      },
+      {
+        "name" : "4. Sulit tidur",
+        "file" : "4.txt",
+        "image" : ["4.mp4"]
+      }
+    ]
+}
